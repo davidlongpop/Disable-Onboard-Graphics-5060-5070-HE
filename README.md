@@ -1,0 +1,1 @@
+# Disable-Onboard-Graphics-5060-5070-HE
